@@ -1,0 +1,1 @@
+export const zgh = state => state.zgh
